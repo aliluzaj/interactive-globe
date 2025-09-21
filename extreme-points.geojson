@@ -1,0 +1,111 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Mount Everest",
+        "type": "Highest Point",
+        "location": "Nepal/China",
+        "facts": "8,848 meters above sea level",
+        "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Mount_Everest_as_seen_from_Drukair2_PLW_edit.jpg/800px-Mount_Everest_as_seen_from_Drukair2_PLW_edit.jpg",
+        "imageCaption": "Mount Everest from the air",
+        "source": "Wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Mount_Everest",
+        "sourceCopyright": "Creative Commons",
+        "sourceCopyrightUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+        "imageCopyright": "Drukair2",
+        "imageCopyrightUrl": "https://commons.wikimedia.org/wiki/File:Mount_Everest_as_seen_from_Drukair2_PLW_edit.jpg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [86.9250, 27.9881]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Mariana Trench",
+        "type": "Deepest Point",
+        "location": "Pacific Ocean",
+        "facts": "10,984 meters below sea level",
+        "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Mariana_Trench_Profile.svg/800px-Mariana_Trench_Profile.svg.png",
+        "imageCaption": "Mariana Trench depth profile",
+        "source": "Wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Mariana_Trench",
+        "sourceCopyright": "Creative Commons",
+        "sourceCopyrightUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+        "imageCopyright": "Wikipedia",
+        "imageCopyrightUrl": "https://commons.wikimedia.org/wiki/File:Mariana_Trench_Profile.svg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [142.1996, 11.3693]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Point Nemo",
+        "type": "Most Remote Point",
+        "location": "Pacific Ocean",
+        "facts": "Farthest point from any land",
+        "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Point_Nemo_location.png/800px-Point_Nemo_location.png",
+        "imageCaption": "Point Nemo location in the Pacific",
+        "source": "Wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Pole_of_inaccessibility",
+        "sourceCopyright": "Creative Commons",
+        "sourceCopyrightUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+        "imageCopyright": "Wikipedia",
+        "imageCopyrightUrl": "https://commons.wikimedia.org/wiki/File:Point_Nemo_location.png"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-123.3933, -48.8767]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "La Rinconada",
+        "type": "Highest Settlement",
+        "location": "Peru",
+        "facts": "5,100 meters above sea level",
+        "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/La_Rinconada_Peru.jpg/800px-La_Rinconada_Peru.jpg",
+        "imageCaption": "La Rinconada, Peru",
+        "source": "Wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/La_Rinconada,_Peru",
+        "sourceCopyright": "Creative Commons",
+        "sourceCopyrightUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+        "imageCopyright": "Wikipedia",
+        "imageCopyrightUrl": "https://commons.wikimedia.org/wiki/File:La_Rinconada_Peru.jpg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-70.6333, -14.6333]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Dead Sea",
+        "type": "Lowest Land Point",
+        "location": "Jordan/Israel",
+        "facts": "430 meters below sea level",
+        "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Dead_Sea_Israel.jpg/800px-Dead_Sea_Israel.jpg",
+        "imageCaption": "Dead Sea shoreline",
+        "source": "Wikipedia",
+        "sourceUrl": "https://en.wikipedia.org/wiki/Dead_Sea",
+        "sourceCopyright": "Creative Commons",
+        "sourceCopyrightUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+        "imageCopyright": "Wikipedia",
+        "imageCopyrightUrl": "https://commons.wikimedia.org/wiki/File:Dead_Sea_Israel.jpg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [35.5, 31.5]
+      }
+    }
+  ]
+}
+
